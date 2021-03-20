@@ -1,5 +1,6 @@
-installl npm react-scripts --save
-npm start to run the program
+1. npm install  react-scripts --save
+2.npm install react-routing-dom
+3.npm start to run the program
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
